@@ -5,3 +5,4 @@
 - include_tasks: create-keypair.yml
 - include_tasks: create-network.yml
 - include_tasks: create-sg.yml
+- include_tasks: deploy-3tier.yml
