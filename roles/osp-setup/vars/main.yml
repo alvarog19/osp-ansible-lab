@@ -28,3 +28,7 @@ osp_router:
     state: present
     name: router
     network: ext_network
+
+osp_vm_app2:
+  name: ap2
+  security_group: apps
